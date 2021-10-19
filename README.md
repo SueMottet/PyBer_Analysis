@@ -10,3 +10,4 @@
 * matplotlib.axes.Axes.pie https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.axes.Axes.pie.html
 * Python matplotlib clockwise pie charts https://stackoverflow.com/questions/48647268/python-matplotlib-clockwise-pie-charts
 * Change the size of figures drawn with Matplotlib https://stackoverflow.com/questions/332289/how-do-you-change-the-size-of-figures-drawn-with-matplotlib
+* Panda documentation on visualization https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
