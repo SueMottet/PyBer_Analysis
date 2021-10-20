@@ -1,4 +1,6 @@
 # Visualizing Ride-Sharing Data using MatPlotLib
+## Visualization of Ride Share Data Overview
+
 ### References:
 * Matplotlib list of named colors. https://github.com/inessadl/readme
 * Matplotlib Markers https://www.w3schools.com/python/matplotlib_markers.asp
@@ -12,3 +14,5 @@
 * Change the size of figures drawn with Matplotlib https://stackoverflow.com/questions/332289/how-do-you-change-the-size-of-figures-drawn-with-matplotlib
 * Panda documentation on visualization https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
 * Matplot lib style sheets https://matplotlib.org/stable/gallery/style_sheets/style_sheets_reference.html
+
+## Visualization of Ride Share Data Overview
