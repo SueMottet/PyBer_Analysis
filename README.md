@@ -2,6 +2,19 @@
 ## Visualization of Ride Share Data Overview
 
 ### References:
+* Matplotlib documentation https://matplotlib.org/3.1.0/index.html
+* Matplotlib backends https://matplotlib.org/3.1.1/api/matplotlib_configuration_api.html
+* Matplotlib.plyplot.plot https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.pyplot.plot.html
+* Matplotlib Pyploy API https://matplotlib.org/3.1.0/api/index.html#the-pyplot-api
+* Anatomy of a Matplotlib chart https://matplotlib.org/tutorials/introductory/usage.html#parts-of-a-figure
+* Matplotlib.axes.Axes.plot https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.axes.Axes.plot.html
+* Matplotlib Axes class https://matplotlib.org/3.1.0/api/axes_api.html
+* Matplotlib - creating a bar chart using the MATLAB method https://matplotlib.org/api/_as_gen/matplotlib.pyplot.bar.html#matplotlib.pyplot.bar
+* Matplotlib - creating a horizontal bar chart uwing MATLAB method https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.pyplot.barh.html#matplotlib.pyplot.barh
+* Matplotlib - creating bar charts using the object-oriented interface https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.axes.Axes.bar.html
+* Matplotlib matplotlib.plyplt.scatter https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.scatter.html#matplotlib.pyplot.scatter
+* Matplotlib simple scatter plot https://matplotlib.org/3.1.1/gallery/shapes_and_collections/scatter.html#sphx-glr-gallery-shapes-and-collections-scatter-py
+* Matplotlib list comprehension https://docs.python.org/3.7/tutorial/datastructures.html#list-comprehensions
 * Matplotlib list of named colors. https://github.com/inessadl/readme
 * Matplotlib Markers https://www.w3schools.com/python/matplotlib_markers.asp
 * Plotting with a transparent marker but non-transparent edge https://stackoverflow.com/questions/23596575/plotting-with-a-transparent-marker-but-non-transparent-edge
