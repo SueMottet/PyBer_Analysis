@@ -28,4 +28,4 @@
 * Panda documentation on visualization https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
 * Matplot lib style sheets https://matplotlib.org/stable/gallery/style_sheets/style_sheets_reference.html
 
-## Visualization of Ride Share Data Overview
+## Visualization of Ride Share Data Results
