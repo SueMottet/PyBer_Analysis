@@ -18,6 +18,12 @@
 * Matplotlib list of named colors https://matplotlib.org/3.1.1/gallery/color/named_colors.html
 * Matplotlib matplotlib.axes.Axes.scatter https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.axes.Axes.scatter.html
 * Matplotlib scatter charts with a legend https://matplotlib.org/3.1.0/gallery/lines_bars_and_markers/scatter_with_legend.html#sphx-glr-gallery-lines-bars-and-markers-scatter-with-legend-py
+* Matplotlib - creating a pie chart using MATLAB method https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.pie.html#matplotlib.pyplot.scatter
+* Matplotlib - creating a pie chart using the object-oriented interface method https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.axes.Axes.pie.html
+* Matplotlib matplotlib.pyplot.errorbar https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.errorbar.html
+* Matplotlib axes.Axes.errorbar https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.axes.Axes.errorbar.html
+* Matplotlib  - major and minor ticks https://matplotlib.org/3.1.0/gallery/ticks_and_spines/major_minor_demo.html
+* Pandas visualization https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
 * Git Hub README references https://github.com/inessadl/readme
 * Matplotlib Markers https://www.w3schools.com/python/matplotlib_markers.asp
 * Plotting with a transparent marker but non-transparent edge https://stackoverflow.com/questions/23596575/plotting-with-a-transparent-marker-but-non-transparent-edge
