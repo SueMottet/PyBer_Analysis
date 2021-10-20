@@ -15,7 +15,10 @@
 * Matplotlib matplotlib.plyplt.scatter https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.scatter.html#matplotlib.pyplot.scatter
 * Matplotlib simple scatter plot https://matplotlib.org/3.1.1/gallery/shapes_and_collections/scatter.html#sphx-glr-gallery-shapes-and-collections-scatter-py
 * Matplotlib list comprehension https://docs.python.org/3.7/tutorial/datastructures.html#list-comprehensions
-* Matplotlib list of named colors. https://github.com/inessadl/readme
+* Matplotlib list of named colors https://matplotlib.org/3.1.1/gallery/color/named_colors.html
+* Matplotlib matplotlib.axes.Axes.scatter https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.axes.Axes.scatter.html
+* Matplotlib scatter charts with a legend https://matplotlib.org/3.1.0/gallery/lines_bars_and_markers/scatter_with_legend.html#sphx-glr-gallery-lines-bars-and-markers-scatter-with-legend-py
+* Git Hub README references https://github.com/inessadl/readme
 * Matplotlib Markers https://www.w3schools.com/python/matplotlib_markers.asp
 * Plotting with a transparent marker but non-transparent edge https://stackoverflow.com/questions/23596575/plotting-with-a-transparent-marker-but-non-transparent-edge
 * matplotlib.markers.MarkerStyle https://matplotlib.org/stable/api/_as_gen/matplotlib.markers.MarkerStyle.html#matplotlib.markers.MarkerStyle
