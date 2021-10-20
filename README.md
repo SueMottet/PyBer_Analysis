@@ -1,6 +1,6 @@
 # PyBer_Analysis
 ### References:
-* Matplotlib List of named colors. https://github.com/inessadl/readme
+* Matplotlib list of named colors. https://github.com/inessadl/readme
 * Matplotlib Markers https://www.w3schools.com/python/matplotlib_markers.asp
 * Plotting with a transparent marker but non-transparent edge https://stackoverflow.com/questions/23596575/plotting-with-a-transparent-marker-but-non-transparent-edge
 * matplotlib.markers.MarkerStyle https://matplotlib.org/stable/api/_as_gen/matplotlib.markers.MarkerStyle.html#matplotlib.markers.MarkerStyle
