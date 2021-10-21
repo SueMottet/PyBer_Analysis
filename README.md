@@ -35,6 +35,9 @@
 * Python matplotlib clockwise pie charts https://stackoverflow.com/questions/48647268/python-matplotlib-clockwise-pie-charts
 * Change the size of figures drawn with Matplotlib https://stackoverflow.com/questions/332289/how-do-you-change-the-size-of-figures-drawn-with-matplotlib
 * Panda documentation on visualization https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
-* Matplot lib style sheets https://matplotlib.org/stable/gallery/style_sheets/style_sheets_reference.html
+* Matplotlib style sheets https://matplotlib.org/stable/gallery/style_sheets/style_sheets_reference.html
+* Matplotlib matplotlib.pyplot.legend https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.legend.html
+* Matplotlib matplotlib.axes.Axes.legend https://matplotlib.org/2.0.0/api/_as_gen/matplotlib.axes.Axes.legend.html
+* Matplotlib matplotlib.pyplot.text https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.text.html
 
 ## Visualization of Ride Share Data Results
