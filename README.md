@@ -42,5 +42,6 @@
 * Mean, median, mode definitons https://www.cuemath.com/data/mean-median-mode/
 * Matplotlib statistics visualizations https://matplotlib.org/3.1.1/gallery/index.html#statistics
 * Matplotlib box plots https://matplotlib.org/examples/statistics/boxplot_demo.html
+* Matplotlib - customizing Matplotlib with style sheets and rcParams
 
 ## Visualization of Ride Share Data Results
