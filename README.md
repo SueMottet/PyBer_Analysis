@@ -39,5 +39,8 @@
 * Matplotlib matplotlib.pyplot.legend https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.legend.html
 * Matplotlib matplotlib.axes.Axes.legend https://matplotlib.org/2.0.0/api/_as_gen/matplotlib.axes.Axes.legend.html
 * Matplotlib matplotlib.pyplot.text https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.text.html
+* Mean, median, mode definitons https://www.cuemath.com/data/mean-median-mode/
+* Matplotlib statistics visualizations https://matplotlib.org/3.1.1/gallery/index.html#statistics
+* Matplotlib box plots https://matplotlib.org/examples/statistics/boxplot_demo.html
 
 ## Visualization of Ride Share Data Results
