@@ -1,4 +1,4 @@
-# Visualizing Ride-Sharing Data using MatPlotLib
+# Visualizing Ride-Sharing Data using Pandas Data Frames and MatPlotLib
 
 ## Visualization of Ride Share Data Overview
 
