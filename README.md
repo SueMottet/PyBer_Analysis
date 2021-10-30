@@ -34,6 +34,38 @@ A written report of this ride-sharing data analysis and data visualization work 
 
 ### Resources
 - Software: Python 3.6.1, Jupyter Notebook, Pandas, Matplotlib
+## Visualization of Ride Share Data Results
+1. Total rides for each city type
+2. Total drivers for each city type
+3. Total fares for each city type 
+4. Average fare per ride for each city type is calculated
+5. Average fare per driver for each city type 
+6. Format summary DataFrame
+   * Formating
+
+### Summary DataFrame
+
+![ride-share data summary image](/Resources/pyber_summary_dataframe.png)
+
+### Pivot table
+
+![ride-share pivot table image](/Resources/pivot_table.png)
+
+### Resampling
+
+![ride-share pivot table image](/Resources/resampling.png)
+
+### Multiple-line chart
+
+![ride-share data summary image](/Resources/fares_by_city_type_by_wk_mth_multi_line_chart.png)
+
+### Differences in data among the different city types
+General differences amonng the city types include
+## Ride Share Data Visualization Summary and Proposed Recommendations
+1. Disparity 1 among city types and related rec
+2. Disparity 2 among city types and related rec
+3. Disparity 3 among city types and related rec
+
 ### References:
 * Matplotlib documentation https://matplotlib.org/3.1.0/index.html
 * Matplotlib backends https://matplotlib.org/3.1.1/api/matplotlib_configuration_api.html
@@ -76,34 +108,3 @@ A written report of this ride-sharing data analysis and data visualization work 
 * Matplotlib statistics visualizations https://matplotlib.org/3.1.1/gallery/index.html#statistics
 * Matplotlib box plots https://matplotlib.org/examples/statistics/boxplot_demo.html
 * Matplotlib - customizing Matplotlib with style sheets and rcParams
-
-## Visualization of Ride Share Data Results
-1. Total rides for each city type
-2. Total drivers for each city type
-3. Total fares for each city type 
-4. Average fare per ride for each city type is calculated
-5. Average fare per driver for each city type 
-6. Format summary DataFrame
-   * Formating
-
-### Summary DataFrame
-
-![ride-share data summary image](/Resources/pyber_summary_dataframe.png)
-
-### Pivot table
-
-![ride-share pivot table image](/Resources/pivot_table.png)
-
-### Resampling
-
-![ride-share pivot table image](/Resources/resampling.png)
-
-### Multiple-line chart
-
-![ride-share data summary image](/Resources/fares_by_city_type_by_wk_mth_multi_line_chart.png)
-
-### Differences in data among the different city types
-
-## Visualization of Ride Share Data Summary
-
-### 
