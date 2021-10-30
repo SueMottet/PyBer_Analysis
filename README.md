@@ -67,7 +67,8 @@ The pivot table shows fares by date by city type and shows that on many dates th
 ![ride-share pivot table image](/Resources/pivot_table.png)
 
 ### Resampling
-The resampling of the fares by date by city type to look at the data by week allows for seeing the trends for each ctiy more clearly as well as help provide a cleaner comparison fo the fares across the city types
+The resampling of the fares by date by city type allowing a look at the data by week and helps identify the trends for each city type more clearly as well as helping provide a cleaner comparison of the total fares across the city types over time.
+
 ![ride-share pivot table image](/Resources/resampling.png)
 
 ### Differences in data among the different city types
