@@ -23,7 +23,7 @@ This data analysis will be primarily focused on summarizing how the ride-share d
 6. Create summary DataFrame 
 7. Format summary DataFrame
 
-### Objective 2: Summary of city type data for ride sharing
+### Objective 2: Matplotlib multi-line change data visualization of total fare for each city type 
 1. Create a pivot table using pandas pivot() 
 2. Resample the pivot table data using Pandas resample() to get a better data set for the data visualization. (chart)
 3. Create a multiple-line chart in Matplotlib that shows the total fares for each week by city type
