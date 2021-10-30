@@ -1,6 +1,6 @@
-# Visualizing Ride-Sharing Data using Pandas Data Frames and MatPlotLib
+# Visualizing Ride-Sharing Data 
 
-## Visualization of Ride Share Data Overview
+## Visualization of Ride Share Data using Pandas Data Frames and MatPlotLib Overview
 
 This project is to perform exploratory data analysis on approximately 8 months of ride-sharing data including: 
 * inspecting the data
