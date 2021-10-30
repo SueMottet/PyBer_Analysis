@@ -2,13 +2,13 @@
 
 ## Visualization of Ride Share Data Overview
 
-This project is to perform exploratory data analysis on approximately 4 months of ride-sharing data including: 
+This project is to perform exploratory data analysis on approximately 8 months of ride-sharing data including: 
 * inspecting the data
 * merging data sets
 * performing calculations
 * creating data series and data frames. 
 
-Matplotlib will then be used with this data to create a publication quality multi-line chart to help tell the visual story from the ride-sharing city type data.
+Matplotlib will then be used with the first 4 months of this data to create a publication quality multi-line chart to help tell the visual story from the ride-sharing city type data.
 
 The intended use of this data analysis and the related data visualization (chart) is to help the ride sharing company improve access to ride sharing services and to help determine affordability for underserved neighborhoods. 
 
