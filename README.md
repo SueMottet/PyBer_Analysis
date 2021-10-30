@@ -18,7 +18,7 @@ This data analysis will be primarily focused on summarizing how the ride-share d
 1. Calculate the total number of rides for each city type
 2. Calculate total number of drivers for each city type
 3. Calculate sum of the fares for each city type 
-4. Calculate the average fare per ride for each city type is calculated
+4. Calculate the average fare per ride for each city type
 5. Calculate the average fare per driver for each city type 
 6. Create summary DataFrame 
 7. Format summary DataFrame
@@ -34,6 +34,7 @@ A written report of this ride-sharing data analysis and data visualization work 
 
 ### Resources
 - Software: Python 3.6.1, Jupyter Notebook, Pandas, Matplotlib
+
 ## Analysis Results for Ride Share Data
 1. Total rides for each city type:
    * Rural total rides = 125
@@ -61,7 +62,7 @@ A summary visualization of these result is shown here:
 ![ride-share data summary image](/Resources/pyber_summary_dataframe.png)
 
 ### Pivot table
-The pivot table shows fares by date by city type and shows that on many dates there were no fares in the rural and suburan city types
+The pivot table shows fares by date by city type and shows that on many dates there were no fares in the rural and suburan city types.
 
 ![ride-share pivot table image](/Resources/pivot_table.png)
 
@@ -69,16 +70,18 @@ The pivot table shows fares by date by city type and shows that on many dates th
 The resampling of the fares by date by city type to look at the data by week allows for seeing the trends for each ctiy more clearly as well as help provide a cleaner comparison fo the fares across the city types
 ![ride-share pivot table image](/Resources/resampling.png)
 
-### Multiple-line chart
+### Differences in data among the different city types
+The analysis shows that as the city types become more rural and less urban the ride counts, driver count, ond total fares diminish and the rates per ride and driver rise up until we reach rural areas were there is less ride-share usage. 
 
 ![ride-share data summary image](/Resources/fares_by_city_type_by_wk_mth_multi_line_chart.png)
 
-### Differences in data among the different city types
-General differences amonng the city types include
+
 ## Ride Share Data Visualization Summary and Proposed Recommendations
-1. The pivot table show that on many days there were no Increasing the number of drivers in rural and suburban city types could make rides in these areas more accesible and affordable.
-2. Giving rides in rural and sububuran areas could be more profitable for a driver than in Urban areas if the driver is willing take on giving more rides because the fares per driver are higher. 
-3. Urban drivers could look at picking up near by Suburan rides to improve their usage rates. Surburban drivers could do the same with near by rural areas. Slight expansion of service areas out from urban to suburban and from surburban to rural could be good for drivers, rider access, and the company profits.
+1. Most ride sharing is done in urban city types and accessibility and affordability is best in urban city types.
+2. The pivot table show that on many days there were no fares in rural and suburban city types so the company could look to make rides in these areas more accessible and affordable to increase usage.
+3. Urban drivers could look at picking up near by suburban rides to improve their usage rates. Suburban drivers could do the same with near by rural areas. Slight expansion of driver service areas to pick up the less frequent ride requests out from urban to suburban and from suburban to rural could be good for drivers, rider access, and the company profits.
+
+
 
 ### References:
 * Matplotlib documentation https://matplotlib.org/3.1.0/index.html
