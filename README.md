@@ -1,6 +1,39 @@
 # Visualizing Ride-Sharing Data using MatPlotLib
+
 ## Visualization of Ride Share Data Overview
 
+This project is to perform exploratory data analysis on approximately 4 months of ride-sharing data including: 
+* inspecting the data
+* merging data sets
+* performing calculations
+* creating data series and data frames. 
+
+Matplotlib will then be used with this data to create a publication quality multi-line chart to help tell the visual story from the ride-sharing city type data.
+
+The intended use of this data analysis and the related data visualization (chart) is to help the ride sharing company improve access to ride sharing services and to help determine affordability for underserved neighborhoods. 
+
+This data analysis will be primarily focused on summarizing how the ride-share data differs across city types highlighting how the city type differences can be used by key decision-maker at the ride-sharing company.
+
+### Objective 1: Summary of city type data for ride sharing
+1. Calculate the total number of rides for each city type
+2. Calculate total number of drivers for each city type
+​3. Calculate sum of the fares for each city type 
+​4. Calculate the average fare per ride for each city type is calculated
+5. Calculate the average fare per driver for each city type 
+6. Create summary DataFrame 
+7. Format summary DataFrame
+
+### Objective 2: Summary of city type data for ride sharing
+1. Create a pivot table using pandas pivot() 
+2. Resample the pivot table data using Pandas resample() to get a better data set for the data visualization. (chart)
+3. Create a multiple-line chart in Matplotlib that shows the total fares for each week by city type
+4. Format the chart to be sized,styled and labeled improving usability and comprehension of the data presented
+
+### Objective 3: Written report of ride-sharing city type data exploration 
+A written report of this ride-sharing data analysis and data visualization work is included in this README.
+
+### Resources
+- Software: Python 3.6.1, Jupyter Notebook, Pandas, Matplotlib
 ### References:
 * Matplotlib documentation https://matplotlib.org/3.1.0/index.html
 * Matplotlib backends https://matplotlib.org/3.1.1/api/matplotlib_configuration_api.html
@@ -45,3 +78,32 @@
 * Matplotlib - customizing Matplotlib with style sheets and rcParams
 
 ## Visualization of Ride Share Data Results
+1. Total rides for each city type
+2. Total drivers for each city type
+​3. Total fares for each city type 
+​4. Average fare per ride for each city type is calculated
+5. Average fare per driver for each city type 
+6. Format summary DataFrame
+   * Formating
+
+### Summary DataFrame
+
+![ride-share data summary image](/Resources/pyber_summary_dataframe.png)
+
+### Pivot table
+
+![ride-share pivot table image](/Resources/pivot_table.png)
+
+### Resampling
+
+![ride-share pivot table image](/Resources/resampling.png)
+
+### Multiple-line chart
+
+![ride-share data summary image](/Resources/fares_by_city_type_by_wk_mth_multi_line_chart.png)
+
+### Differences in data among the different city types
+
+## Visualization of Ride Share Data Summary
+
+### 
