@@ -17,8 +17,8 @@ This data analysis will be primarily focused on summarizing how the ride-share d
 ### Objective 1: Summary of city type data for ride sharing
 1. Calculate the total number of rides for each city type
 2. Calculate total number of drivers for each city type
-​3. Calculate sum of the fares for each city type 
-​4. Calculate the average fare per ride for each city type is calculated
+3. Calculate sum of the fares for each city type 
+4. Calculate the average fare per ride for each city type is calculated
 5. Calculate the average fare per driver for each city type 
 6. Create summary DataFrame 
 7. Format summary DataFrame
@@ -67,7 +67,7 @@ A written report of this ride-sharing data analysis and data visualization work 
 * matplotlib.axes.Axes.pie https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.axes.Axes.pie.html
 * Python matplotlib clockwise pie charts https://stackoverflow.com/questions/48647268/python-matplotlib-clockwise-pie-charts
 * Change the size of figures drawn with Matplotlib https://stackoverflow.com/questions/332289/how-do-you-change-the-size-of-figures-drawn-with-matplotlib
-* Panda documentation on visualization https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
+* Pandas documentation on visualization https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
 * Matplotlib style sheets https://matplotlib.org/stable/gallery/style_sheets/style_sheets_reference.html
 * Matplotlib matplotlib.pyplot.legend https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.legend.html
 * Matplotlib matplotlib.axes.Axes.legend https://matplotlib.org/2.0.0/api/_as_gen/matplotlib.axes.Axes.legend.html
@@ -80,8 +80,8 @@ A written report of this ride-sharing data analysis and data visualization work 
 ## Visualization of Ride Share Data Results
 1. Total rides for each city type
 2. Total drivers for each city type
-​3. Total fares for each city type 
-​4. Average fare per ride for each city type is calculated
+3. Total fares for each city type 
+4. Average fare per ride for each city type is calculated
 5. Average fare per driver for each city type 
 6. Format summary DataFrame
    * Formating
