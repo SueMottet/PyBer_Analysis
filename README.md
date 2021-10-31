@@ -10,11 +10,11 @@ This project is to perform exploratory data analysis on approximately 8 months o
 
 Matplotlib will then be used with the first 4 months of this data to create a publication quality multi-line chart to help tell the visual story from the ride-sharing city type data.
 
-The intended use of this data analysis and the related data visualization (chart) is to help the ride sharing company improve access to ride sharing services and to help determine affordability for underserved neighborhoods. 
+The intended use of this data analysis and the related data visualization (chart) is to help the ride-sharing company improve access to ride-sharing services and to help determine affordability for underserved neighborhoods. 
 
 This data analysis will be primarily focused on summarizing how the ride-share data differs across city types highlighting how the city type differences can be used by key decision-maker at the ride-sharing company.
 
-### Objective 1: Summary of city type data for ride sharing
+### Objective 1: Summary of city type data for ride-sharing
 1. Calculate the total number of rides for each city type
 2. Calculate total number of drivers for each city type
 3. Calculate sum of the fares for each city type 
@@ -26,8 +26,8 @@ This data analysis will be primarily focused on summarizing how the ride-share d
 ### Objective 2: Matplotlib multi-line change data visualization of total fare for each city type 
 1. Create a pivot table using pandas pivot() 
 2. Resample the pivot table data using Pandas resample() to get a better data set for the data visualization. (chart)
-3. Create a multiple-line chart in Matplotlib that shows the total fares for each week by city type
-4. Format the chart to be sized,styled and labeled improving usability and comprehension of the data presented
+3. Create a multiple-line chart in Matplotlib that shows the total fares for each month by city type
+4. Format the chart to be sized, styled and labeled improving usability and comprehension of the data presented
 
 ### Objective 3: Written report of ride-sharing city type data exploration 
 A written report of this ride-sharing data analysis and data visualization work is included in this README.
@@ -67,7 +67,7 @@ The pivot table shows fares by date by city type and shows that on many dates th
 ![ride-share pivot table image](/Resources/pivot_table.png)
 
 ### Resampling
-The resampling of the fares by date by city type allowing a look at a subset of the data week by week and helps identify the trends for each city type more clearly as well as helping provide a cleaner comparison of the total fares across the city types over time.
+The resampling of the fares by date by city type allowing a look at a subset of the data week by week and helps identify the trends for each city type more clearly as well as helping provide a cleaner comparison of the total fares across the city types over time for the chart.
 
 ![ride-share pivot table image](/Resources/resampling.png)
 
@@ -78,8 +78,8 @@ The analysis shows that as the city types become more rural and less urban the r
 
 
 ## Ride Share Data Visualization Summary and Proposed Recommendations
-1. Most ride sharing is done in urban city types and accessibility and affordability is best in urban city types.
-2. The pivot table show that on many days there were no fares in rural and suburban city types so the company could look to make rides in these areas more accessible and affordable to increase usage.
+1. Most ride-sharing rides are in urban city types and accessibility and affordability is best in urban city types.
+2. The pivot table shows that on many days there were no fares in rural and suburban city types so the company could look to make rides in these areas more accessible and affordable to increase usage.
 3. Urban drivers could look at picking up near by suburban rides to improve their usage rates. Suburban drivers could do the same with near by rural areas. Slight expansion of driver service areas to pick up the less frequent ride requests out from urban to suburban and from suburban to rural could be good for drivers, rider access, and the company profits.
 
 
