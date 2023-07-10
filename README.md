@@ -125,4 +125,4 @@ The analysis shows that as the city types become more rural and less urban the r
 * Mean, median, mode definitons https://www.cuemath.com/data/mean-median-mode/
 * Matplotlib statistics visualizations https://matplotlib.org/3.1.1/gallery/index.html#statistics
 * Matplotlib box plots https://matplotlib.org/examples/statistics/boxplot_demo.html
-* Matplotlib - customizing Matplotlib with style sheets and rcParams
+* Matplotlib - customizing Matplotlib with style sheets and rcParams https://matplotlib.org/stable/tutorials/introductory/customizing.html
